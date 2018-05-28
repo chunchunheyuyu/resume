@@ -64,7 +64,7 @@
 - [时钟]( https://chunchunheyuyu.github.io/canvas/clock/clock.html)
 - [点线](https://chunchunheyuyu.github.io/canvas/%E7%82%B9%E7%BA%BF.html)
 
-##组件
+#### 组件
 [代码地址](https://github.com/chunchunheyuyu/JS-note/tree/master/js%E6%95%88%E6%9E%9C/%E7%BB%84%E4%BB%B6)
 - [日历组件](https://chunchunheyuyu.github.io/JS-note/js%E6%95%88%E6%9E%9C/%E7%BB%84%E4%BB%B6/%E6%97%A5%E5%8E%86%E7%BB%84%E4%BB%B6/%E6%97%A5%E5%8E%86.html)
 - [tab切换]( https://chunchunheyuyu.github.io/JS-note/js%E6%95%88%E6%9E%9C/%E7%BB%84%E4%BB%B6/tab%E7%BB%84%E4%BB%B6/tab.html)
