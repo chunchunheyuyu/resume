@@ -54,7 +54,7 @@
 
 - 简介：实现了账户保存，备忘录添加和移除
 - 技术架构：Vue + webpack +es6 leancloud进行数据存储
-- 项目心得：第一次使用Vue开发项目，基本了解Vue.js的项目开发方式。
+- 项目心得：使用Vue开发项目，基本了解Vue.js的项目开发方式。
 
 
 #### [Boostrap网站](https://chunchunheyuyu.github.io/JS-note/Bootstrap/bootstrap%E7%BB%83%E4%B9%A0%E7%BD%91%E7%AB%99%201/html/index.html)
