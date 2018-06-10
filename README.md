@@ -18,14 +18,14 @@
 
 - **学历** ：本科
 - **性别** ：男
-- **GitHub** ：[matachunyan](https://github.com/matachunyan)
--  **简书** ：[白斩祭](http://www.jianshu.com/u/dbd7d3dea095)
+- **GitHub** ：[chunchunheyuyu](https://github.com/chunchunheyuyu)
+-  **简书** ：[halukn](https://www.jianshu.com/u/8e29c3f7ea8a)
  
 -------------------
 
 ## 联系方式
 - **手机** ：150-0210-6526
-- **邮箱** ：qyc900329@gmail.com
+- **邮箱** ：604575014@qq.com
 - **微信** ：Smxb218
 
  -------------------
@@ -38,15 +38,13 @@
 
 4.了解Vue,了解其相应响应式原理，生命周期，组件通信，虚拟DOM。
 
-5.了解React,redux，生命周期，可以进行一些简单的小规模项目开发。
+5.能够使用Webpack前端构建工具搭建前端开发环境
 
-6.能够使用Webpack前端构建工具搭建前端开发环境
+6.熟悉 Npm & Git ，了解Node.js。
 
-7.熟悉 Npm & Git ，了解Node.js。
+7.了解掌握浏览器的调试，可快速寻找bug, 面向Google及Stack Overflow编程 :)。
 
-8.了解掌握浏览器的调试，可快速寻找bug, 面向Google及Stack Overflow编程 :)。
-
-9.有解决问题、钻研新技术的兴趣和能力，善于交流和表达
+8.有解决问题、钻研新技术的兴趣和能力，善于交流和表达
 
 ## 项目经历
 
